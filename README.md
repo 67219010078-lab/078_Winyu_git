@@ -15,3 +15,13 @@
 - canva
 - capcut
 - swimming
+
+# Education
+College : Hatyai tenhnical college
+Program : Infomation technology
+Vear : vocationai certficate (Voc. Cert.3)
+
+# Career Goals
+- Gym Coach
+- Actor
+- Body builder
