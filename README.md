@@ -26,7 +26,12 @@ Vear : vocationai certficate (Voc. Cert.3)
 - Actor
 - Body builder
 
-# My Hobby
-- Reading
-- clab
-- Music 
+# Contact
+ig : winyuphondet
+Number : 095-012-8373
+Facebook : winyuphondet
+
+# my Hobby
+- workout
+- watch movie
+- sleep
