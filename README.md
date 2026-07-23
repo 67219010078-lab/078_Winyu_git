@@ -30,3 +30,8 @@ Vear : vocationai certficate (Voc. Cert.3)
 ig : winyuphondet
 Number : 095-012-8373
 Facebook : winyuphondet
+
+# my Hobby
+- workout
+- watch movie
+- sleep
