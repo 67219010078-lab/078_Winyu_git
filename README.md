@@ -25,3 +25,8 @@ Vear : vocationai certficate (Voc. Cert.3)
 - Gym Coach
 - Actor
 - Body builder
+
+# My Hobby
+- Reading
+- clab
+- Music 
