@@ -35,3 +35,7 @@ Facebook : winyuphondet
 - workout
 - watch movie
 - sleep
+
+# Favorite Place
+- house
+- bedroom
