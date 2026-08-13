@@ -39,3 +39,7 @@ Facebook : winyuphondet
 # Favorite Food
 - fried basil
 - Boiled egg
+
+# Favorite Place
+- house
+- bedroom
